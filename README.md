@@ -18,10 +18,6 @@ The **Worldle Best First Word** project seeks to determine the best first word t
 - Display data in tabular form
 ##### Category 4: Best Practices
 - The program should utilize a virtual environment and document library dependencies in a requirements.txt file.
-##### *"STRETCH"* Feature List
+##### *STRETCH* Feature List
 - Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display.
 - Use a Jupyter notebook to document your data analysis.
-
-
-### Special Instructions
-Any special instructions are required for the reviewer to run your project. (For example: “run python main.py” from the command line)
