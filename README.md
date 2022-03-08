@@ -9,12 +9,18 @@ The **Worldle Best First Word** project seeks to determine the best first word t
 `numpy`
 
 ### Relevant Features
-Which 3+ features you have included from the below lists to meet the requirements
 ##### Category 1: Python Programming Basics
+- Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
 ##### Category 2: Utilize External Data:
+- Read data from an external file, such as text, JSON, CSV, etc, and use that data in your application.
 ##### Category 3: Data Display
+- Visualize data in a graph, chart, or other visual representation of data.
+- Display data in tabular form
 ##### Category 4: Best Practices
+- The program should utilize a virtual environment and document library dependencies in a requirements.txt file.
 ##### *"STRETCH"* Feature List
+- Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display.
+- Use a Jupyter notebook to document your data analysis.
 
 
 ### Special Instructions
